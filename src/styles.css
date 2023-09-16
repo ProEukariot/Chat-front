@@ -21,4 +21,9 @@
 * {
   font-weight: 500;
   font-size: large;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
